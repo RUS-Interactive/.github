@@ -1,2 +1,2 @@
-# .github
-Welcome to interactive readme
+## Welcome!
+Welcome to **RUS Interactive Studios**!
